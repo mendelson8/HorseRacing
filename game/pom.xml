@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.konie</groupId>
-	<artifactId>mendel</artifactId>
+	<artifactId>game</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>mendel</name>
 	<description>Demo project for Spring Boot</description>
