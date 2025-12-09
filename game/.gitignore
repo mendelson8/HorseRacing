@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+docker-compose.yml
+mvnw
+mvnw.cmd
+*properties
